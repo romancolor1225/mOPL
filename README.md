@@ -1,4 +1,4 @@
-# Open PS2 Loader
+# Upgraded UNOFFICIAL version of OPL: Modern Open PS2 Loader
 
 Warning: while the development of the Modern Open PS2 Loader project is underway, the approximate completion date is not yet known:(
 
