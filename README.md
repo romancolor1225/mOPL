@@ -1,6 +1,10 @@
 # Upgraded UNOFFICIAL version of OPL: Modern Open PS2 Loader
 
-Warning: while the development of the Modern Open PS2 Loader project is underway, the approximate completion date is not yet known:(
+>[!Note]
+While the development of the Modern Open PS2 Loader project is underway, the approximate completion date is not yet known:(
+
+>[!Warning]
+THIS IS AN UNOFFICIAL VERSION OF OPL!!!
 
 ![logo](https://github.com/romancolor1225/mOPL/blob/master/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F1495_20260227010325.png)
 
