@@ -1,5 +1,8 @@
 # Open PS2 Loader
 
+Warning: while the development of the Modern Open PS2 Loader project is underway, the approximate completion date is not yet known:(
+
+
 ![logo](https://github.com/ps2homebrew/Open-PS2-Loader/blob/master/gfx/logo.png)
 
 Copyright 2013, Ifcaro & jimmikaelkael
